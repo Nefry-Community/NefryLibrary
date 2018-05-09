@@ -1,3 +1,6 @@
 [submodule "doc"]
 	path = doc
 	url = git@github.com:Nefry-Community/NefryLibraryDocument.git
+[submodule "examples"]
+	path = examples
+	url = git@github.com:Nefry-Community/NefryLibraryExample.git
